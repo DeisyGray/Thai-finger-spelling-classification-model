@@ -1,1 +1,1 @@
-# Thai-finger-spelling-classification-model
+# Thai-finger-spelling-classification-model Web application
